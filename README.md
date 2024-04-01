@@ -47,7 +47,7 @@
             <p align="center" dir="auto">
                 <a href="https://github.com/peterdsharpe/DawnDesignTool"><font style="vertical-align: inherit;"></font><i><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2020 年春季 AeroSandbox 中的Dawn</font></font></i><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">（用于气候科学研究的太阳能电动飞机）</font><font style="vertical-align: inherit;">的初始概念草图 + 尺寸调整</font></font></a>
             </p>
-            <a target="_blank" rel="noopener noreferrer" href="/peterdsharpe/AeroSandbox/blob/master/media/images/dawn1-first-sketch.png"><img src="/peterdsharpe/AeroSandbox/raw/master/media/images/dawn1-first-sketch.png" alt="黎明初始设计" style="max-width: 100%;"></a>
+            <a target="_blank" rel="noopener noreferrer" href="https://github.com/peterdsharpe/AeroSandbox/blob/master/media/images/dawn1-first-sketch.png"><img src="https://github.com/peterdsharpe/AeroSandbox/raw/master/media/images/dawn1-first-sketch.png" alt="黎明初始设计" style="max-width: 100%;"></a>
         </td>
         <td width="50%" valign="top">
             <p align="center" dir="auto">
@@ -71,7 +71,7 @@
 			<p align="center" dir="auto">
 				<a href="https://www.popularmechanics.com/military/aviation/a13938789/mit-developing-mach-08-rocket-drone-for-the-air-force/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">探索如果我们添加高度限制，</font></font><i><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Firefly</font></font></i><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> （一款 0.8 马赫的火箭无人机）的任务范围会如何变化，同时优化飞机设计和轨迹</font></font></a>
 			</p>
-			<a target="_blank" rel="noopener noreferrer" href="/peterdsharpe/AeroSandbox/blob/master/media/images/firefly-range-ceiling-trade.png"><img src="/peterdsharpe/AeroSandbox/raw/master/media/images/firefly-range-ceiling-trade.png" alt="萤火虫系列天花板贸易" style="max-width: 100%;"></a>
+			<a target="_blank" rel="noopener noreferrer" href="https://github.com/peterdsharpe/AeroSandbox/blob/master/media/images/firefly-range-ceiling-trade.png"><img src="https://github.com/peterdsharpe/AeroSandbox/raw/master/media/images/firefly-range-ceiling-trade.png" alt="萤火虫系列天花板贸易" style="max-width: 100%;"></a>
 		</td>
 		<td width="33%" valign="top">
 			<p align="center" dir="auto">
@@ -88,19 +88,19 @@
 			<p align="center" dir="auto">
 				<a href="https://github.com/peterdsharpe/AeroSandbox/blob/master/tutorial/06%20-%20Aerodynamics/01%20-%20AeroSandbox%203D%20Aerodynamics%20Tools/01%20-%20Vortex%20Lattice%20Method/01%20-%20Vortex%20Lattice%20Method.ipynb"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">滑翔机的 VLM 模拟，副翼偏转 +-30°</font></font></a>
 			</p>
-			<a target="_blank" rel="noopener noreferrer" href="/peterdsharpe/AeroSandbox/blob/master/media/images/vlm3_with_control_surfaces.png"><img src="/peterdsharpe/AeroSandbox/raw/master/media/images/vlm3_with_control_surfaces.png" alt="VLM模拟" style="max-width: 100%;"></a>
+			<a target="_blank" rel="noopener noreferrer" href="https://github.com/peterdsharpe/AeroSandbox/blob/master/media/images/vlm3_with_control_surfaces.png"><img src="https://github.com/peterdsharpe/AeroSandbox/raw/master/media/images/vlm3_with_control_surfaces.png" alt="VLM模拟" style="max-width: 100%;"></a>
 		</td>
 		<td width="33%" valign="top">
 			<p align="center" dir="auto">
 				<a href="https://github.com/peterdsharpe/AeroSandbox/blob/master/tutorial/06%20-%20Aerodynamics/01%20-%20AeroSandbox%203D%20Aerodynamics%20Tools/01%20-%20Vortex%20Lattice%20Method/01%20-%20Vortex%20Lattice%20Method.ipynb"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">使用任意目标和约束对机翼平面进行气动形状优化</font></font></a>
 			</p>
-			<a target="_blank" rel="noopener noreferrer" href="/peterdsharpe/AeroSandbox/blob/master/media/images/wing_optimization.png"><img src="/peterdsharpe/AeroSandbox/raw/master/media/images/wing_optimization.png" alt="机翼优化" style="max-width: 100%;"></a>
+			<a target="_blank" rel="noopener noreferrer" href="https://github.com/peterdsharpe/AeroSandbox/blob/master/media/images/wing_optimization.png"><img src="https://github.com/peterdsharpe/AeroSandbox/raw/master/media/images/wing_optimization.png" alt="机翼优化" style="max-width: 100%;"></a>
 		</td>
 		<td width="33%" valign="top">
 			<p align="center" dir="auto">
 				<a href="https://github.com/peterdsharpe/AeroSandbox/blob/master/tutorial/06%20-%20Aerodynamics/02%20-%20AeroSandbox%202D%20Aerodynamics%20Tools/02%20-%20NeuralFoil%20Optimization.ipynb"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">根据空气动力学、结构和制造考虑因素优化翼型形状</font></font></a>
 			</p>
-			<a target="_blank" rel="noopener noreferrer" href="/peterdsharpe/AeroSandbox/blob/master/media/images/airfoil_optimization.png"><img src="/peterdsharpe/AeroSandbox/raw/master/media/images/airfoil_optimization.png" alt="翼型优化" style="max-width: 100%;"></a>
+			<a target="_blank" rel="noopener noreferrer" href="https://github.com/peterdsharpe/AeroSandbox/blob/master/media/images/airfoil_optimization.png"><img src="https://github.com/peterdsharpe/AeroSandbox/raw/master/media/images/airfoil_optimization.png" alt="翼型优化" style="max-width: 100%;"></a>
 		</td>
 	</tr>
 </tbody></table>
@@ -111,13 +111,13 @@
 			<p align="center" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
 				复合材料管梁的结构优化
 			</font></font></p>
-			<a target="_blank" rel="noopener noreferrer" href="/peterdsharpe/AeroSandbox/blob/master/media/images/beam-optimization.png"><img src="/peterdsharpe/AeroSandbox/raw/master/media/images/beam-optimization.png" alt="光束优化" style="max-width: 100%;"></a>
+			<a target="_blank" rel="noopener noreferrer" href="https://github.com/peterdsharpe/AeroSandbox/blob/master/media/images/beam-optimization.png"><img src="https://github.com/peterdsharpe/AeroSandbox/raw/master/media/images/beam-optimization.png" alt="光束优化" style="max-width: 100%;"></a>
 		</td>
 		<td width="50%" valign="top">
 			<p align="center" dir="auto">
 				<a href="https://github.com/peterdsharpe/AeroSandbox/blob/master/aerosandbox/library/propulsion_electric.py"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">螺旋桨匹配的电机分析</font></font></a>
 			</p>
-			<a target="_blank" rel="noopener noreferrer" href="/peterdsharpe/AeroSandbox/blob/master/media/images/motor_perf.png"><img src="/peterdsharpe/AeroSandbox/raw/master/media/images/motor_perf.png" alt="电机性能" style="max-width: 100%;"></a>
+			<a target="_blank" rel="noopener noreferrer" href="https://github.com/peterdsharpe/AeroSandbox/blob/master/media/images/motor_perf.png"><img src="https://github.com/peterdsharpe/AeroSandbox/raw/master/media/images/motor_perf.png" alt="电机性能" style="max-width: 100%;"></a>
 		</td>
 	</tr>
 	<tr>
@@ -142,7 +142,7 @@
             <p align="center" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
                 其他概念设计工具（AVL、XFLR5、XFoil、ASWING、MSES 等）
             </font></font></p>
-            <a target="_blank" rel="noopener noreferrer" href="/peterdsharpe/AeroSandbox/blob/master/media/images/airfoil_contours.png"><img src="/peterdsharpe/AeroSandbox/raw/master/media/images/airfoil_contours.png" alt="X箔" style="max-width: 100%;"></a>
+            <a target="_blank" rel="noopener noreferrer" href="https://github.com/peterdsharpe/AeroSandbox/blob/master/media/images/airfoil_contours.png"><img src="https://github.com/peterdsharpe/AeroSandbox/raw/master/media/images/airfoil_contours.png" alt="X箔" style="max-width: 100%;"></a>
         </td> 
           <td width="33%" valign="top">
                 <p align="center" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
@@ -157,7 +157,7 @@
 			<p align="center" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">
 				用户提供的模型+代码（用于定制空气动力学、结构、推进力或其他任何东西 - 例如，用于优化通过概率风场的飞行，如下所示） 
 			</font></font></p>
-			<a target="_blank" rel="noopener noreferrer" href="/peterdsharpe/AeroSandbox/blob/master/media/images/wind_speeds_model.png"><img src="/peterdsharpe/AeroSandbox/raw/master/media/images/wind_speeds_model.png" alt="风速" style="max-width: 100%;"></a>
+			<a target="_blank" rel="noopener noreferrer" href="https://github.com/peterdsharpe/AeroSandbox/blob/master/media/images/wind_speeds_model.png"><img src="https://github.com/peterdsharpe/AeroSandbox/raw/master/media/images/wind_speeds_model.png" alt="风速" style="max-width: 100%;"></a>
 		</td>
 	</tr>
 </tbody></table>
@@ -168,13 +168,13 @@
 			<p align="center" dir="auto">
 				<a href="https://github.com/peterdsharpe/AeroSandbox/blob/develop/tutorial/01%20-%20Optimization%20and%20Math/01%20-%202D%20Rosenbrock.ipynb"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">优化2D Rosenbrock函数</font></font></a>
 			</p>
-			<a target="_blank" rel="noopener noreferrer" href="/peterdsharpe/AeroSandbox/blob/master/media/images/optimization.png"><img src="/peterdsharpe/AeroSandbox/raw/master/media/images/optimization.png" alt="优化" style="max-width: 100%;"></a>
+			<a target="_blank" rel="noopener noreferrer" href="https://github.com/peterdsharpe/AeroSandbox/blob/master/media/images/optimization.png"><img src="https://github.com/peterdsharpe/AeroSandbox/raw/master/media/images/optimization.png" alt="优化" style="max-width: 100%;"></a>
 		</td>
 		<td width="50%" valign="top">
 			<p align="center" dir="auto">
 				<a href="https://github.com/peterdsharpe/AeroSandbox/tree/develop/tutorial/03%20-%20Trajectory%20Optimization%20and%20Optimal%20Control/01%20-%20Solving%20ODEs%20with%20AeroSandbox"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">指定 Falkner Skan ODE（非线性、三阶 BVP），并让 AeroSandbox 自动处理离散化、求解甚至逆求解。</font></font></a>
 			</p>
-			<a target="_blank" rel="noopener noreferrer" href="/peterdsharpe/AeroSandbox/blob/master/media/images/falkner-skan.png"><img src="/peterdsharpe/AeroSandbox/raw/master/media/images/falkner-skan.png" alt="频域常微分方程" style="max-width: 100%;"></a>
+			<a target="_blank" rel="noopener noreferrer" href="https://github.com/peterdsharpe/AeroSandbox/blob/master/media/images/falkner-skan.png"><img src="https://github.com/peterdsharpe/AeroSandbox/raw/master/media/images/falkner-skan.png" alt="频域常微分方程" style="max-width: 100%;"></a>
 		</td>
 </tr>
 </tbody></table>
